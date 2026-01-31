@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# local-agents
-=======
 # AI Agents Workspace
 
 A comprehensive development environment for building AI agents using LangChain and CrewAI frameworks with GPU acceleration support.
@@ -621,4 +618,3 @@ For issues and questions:
 **Built for Ubuntu Server 22.04 with NVIDIA RTX 5060 Ti**
 
 Happy agent building!
->>>>>>> 5c26794 (Initial commit: AI Agents Workspace setup)
